@@ -1,0 +1,6 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer-when-downgrade
+  Permissions-Policy: geolocation=(), microphone=()
+  X-XSS-Protection: 1; mode=block
+  Content-Security-Policy: frame-ancestors 'self' https://gowrapavan.netlify.app http://localhost:5173
